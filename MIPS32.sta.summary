@@ -1,0 +1,113 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'clock'
+Slack : -16.006
+TNS   : -467.660
+
+Type  : Slow 1200mV 85C Model Setup 'cu:control_unit|Sig_ALUCtrl[0]'
+Slack : -8.038
+TNS   : -719.390
+
+Type  : Slow 1200mV 85C Model Setup 'instruction_memory:instrMem|altsyncram:altsyncram_component|altsyncram_0bo:auto_generated|ram_block1a0~porta_address_reg0'
+Slack : -3.957
+TNS   : -25.207
+
+Type  : Slow 1200mV 85C Model Hold 'instruction_memory:instrMem|altsyncram:altsyncram_component|altsyncram_0bo:auto_generated|ram_block1a0~porta_address_reg0'
+Slack : -5.170
+TNS   : -8.165
+
+Type  : Slow 1200mV 85C Model Hold 'cu:control_unit|Sig_ALUCtrl[0]'
+Slack : -0.982
+TNS   : -16.312
+
+Type  : Slow 1200mV 85C Model Hold 'clock'
+Slack : -0.360
+TNS   : -0.468
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -79.252
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'instruction_memory:instrMem|altsyncram:altsyncram_component|altsyncram_0bo:auto_generated|ram_block1a0~porta_address_reg0'
+Slack : 0.387
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'cu:control_unit|Sig_ALUCtrl[0]'
+Slack : 0.433
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'clock'
+Slack : -14.694
+TNS   : -425.320
+
+Type  : Slow 1200mV 0C Model Setup 'cu:control_unit|Sig_ALUCtrl[0]'
+Slack : -7.286
+TNS   : -648.101
+
+Type  : Slow 1200mV 0C Model Setup 'instruction_memory:instrMem|altsyncram:altsyncram_component|altsyncram_0bo:auto_generated|ram_block1a0~porta_address_reg0'
+Slack : -3.735
+TNS   : -23.787
+
+Type  : Slow 1200mV 0C Model Hold 'instruction_memory:instrMem|altsyncram:altsyncram_component|altsyncram_0bo:auto_generated|ram_block1a0~porta_address_reg0'
+Slack : -4.629
+TNS   : -7.206
+
+Type  : Slow 1200mV 0C Model Hold 'cu:control_unit|Sig_ALUCtrl[0]'
+Slack : -0.905
+TNS   : -14.192
+
+Type  : Slow 1200mV 0C Model Hold 'clock'
+Slack : -0.355
+TNS   : -0.496
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -78.636
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'instruction_memory:instrMem|altsyncram:altsyncram_component|altsyncram_0bo:auto_generated|ram_block1a0~porta_address_reg0'
+Slack : 0.299
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'cu:control_unit|Sig_ALUCtrl[0]'
+Slack : 0.396
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'clock'
+Slack : -7.772
+TNS   : -204.516
+
+Type  : Fast 1200mV 0C Model Setup 'cu:control_unit|Sig_ALUCtrl[0]'
+Slack : -3.460
+TNS   : -297.513
+
+Type  : Fast 1200mV 0C Model Setup 'instruction_memory:instrMem|altsyncram:altsyncram_component|altsyncram_0bo:auto_generated|ram_block1a0~porta_address_reg0'
+Slack : -1.629
+TNS   : -9.007
+
+Type  : Fast 1200mV 0C Model Hold 'instruction_memory:instrMem|altsyncram:altsyncram_component|altsyncram_0bo:auto_generated|ram_block1a0~porta_address_reg0'
+Slack : -2.843
+TNS   : -4.714
+
+Type  : Fast 1200mV 0C Model Hold 'cu:control_unit|Sig_ALUCtrl[0]'
+Slack : -1.088
+TNS   : -35.260
+
+Type  : Fast 1200mV 0C Model Hold 'clock'
+Slack : -0.950
+TNS   : -2.848
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'clock'
+Slack : -3.000
+TNS   : -50.352
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'cu:control_unit|Sig_ALUCtrl[0]'
+Slack : 0.292
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'instruction_memory:instrMem|altsyncram:altsyncram_component|altsyncram_0bo:auto_generated|ram_block1a0~porta_address_reg0'
+Slack : 0.374
+TNS   : 0.000
+
+------------------------------------------------------------
